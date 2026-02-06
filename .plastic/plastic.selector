@@ -1,0 +1,4 @@
+repository "MANOK KO 2026-02-04_23-24-23/MANOK KO@1374794908098@cloud"
+  path "/"
+    br "/main"
+    co "/main"
