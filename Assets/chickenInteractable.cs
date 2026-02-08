@@ -28,7 +28,6 @@ public class chickenInteractable : MonoBehaviour
             changedDirTimer = 2f; 
         }
 
-        
         transform.position += currentDirection * moveSpeed * Time.deltaTime;
 
         
@@ -41,7 +40,6 @@ public class chickenInteractable : MonoBehaviour
             spriteRenderer.flipX = true;
         }
     }
-
     
     void SetRandomDirection()
     {
