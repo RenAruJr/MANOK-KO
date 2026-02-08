@@ -64,6 +64,7 @@
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\HeartUI.cs" />
+    <Compile Include="Assets\chickenInteractable.cs" />
     <Compile Include="Assets\Health.cs" />
     <Compile Include="Assets\PlayerInteract.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
