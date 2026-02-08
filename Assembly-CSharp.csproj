@@ -48,6 +48,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.6f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\thief\enemyMove.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\HeartUI.cs" />
